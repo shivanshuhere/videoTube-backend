@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "video tube backend",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shivanshuhere/videoTube-backend.git"
+  },
+  "author": "shivanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivanshuhere/videoTube-backend/issues"
+  },
+  "homepage": "https://github.com/shivanshuhere/videoTube-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
+  }
+}
